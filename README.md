@@ -1,7 +1,6 @@
 # textutils-react
-A Text utility website prepared by using React JS which provides various text features
-I am a CS graduate who is learning React to progress in my career
-This is small project done in React framework to understand various concepts
+I am a CS graduate who is learning React to progress in my career<br />
+This is small project done in React framework to understand various concepts<br />
 
 This project is built using the following concepts
 
