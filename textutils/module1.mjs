@@ -1,0 +1,10 @@
+const a = "Bharath";
+const b = "Saru";
+const c = "Srav";
+const d = "Pa";
+const e = "Ma";
+export default a;
+export {b};
+export {c};
+export {d};
+export {e};
