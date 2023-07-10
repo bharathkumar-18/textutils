@@ -10,7 +10,7 @@ This project is built using the following concepts
 * React Router
 * Features included:
   * Uppercase conversion
-  * Lowercase conversion*
+  * Lowercase conversion
   * Clear Text in the textform
   * Download the converted text
 * Number of Words and characters
