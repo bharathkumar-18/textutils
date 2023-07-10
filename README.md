@@ -9,10 +9,10 @@ This project is built using the following concepts
 * React Function based Components
 * React Router
 * Features included:
-  ** Uppercase conversion**
+  * Uppercase conversion*
   ** Lowercase conversion**
-  ** Clear Text in the textform**
-  ** Download the converted text**
+  * Clear Text in the textform*
+  * Download the converted text*
 * Number of Words and characters
 * Reading time
 * Text preview<br />
