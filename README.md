@@ -16,3 +16,4 @@ This project is built using the following concepts
 * Number of Words and characters
 * Reading time
 * Text preview
+[See the deployed site here](https://textutils-react-bharathkumar-18.netlify.app/)
